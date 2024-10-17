@@ -1,0 +1,29 @@
+Name: Ibrar ul haq
+Roll no: 13
+Batch: Evening
+Subject: Javascript
+Topic: API Requests (POST, GET, DELETE, PATCH, PUT) 
+
+--------------------------------------------------------
+EXAMPLE: Pinterest Signup & Login Page
+
+POST
+
+When a use sign up in the website by entering his details and click the signup button and POST request sent to the API and It store the user's data as an object.
+
+GET
+
+After signup wen the user login the page. He enter his email and password and then click on the login button an GET request sent. By which it check the given data in the APi if it founds it the user login.
+
+DELETE 
+
+If we Remove the user from the database a DELETE request sent and the regardng data deleted from the API
+
+PUT
+
+When the user change his detail a PUT request sent and it replace or change the Whole object of the regarding user.
+
+PATCH
+
+When the user forget his password for new password a PACTH request is sent and it change the password of the regading user in the API 
+
